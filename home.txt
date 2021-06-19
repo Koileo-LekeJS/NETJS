@@ -1,35 +1,38 @@
-﻿JS脚本地址：
+﻿
+JS脚本地址：
 https://koileo.oss-cn-hangzhou.aliyuncs.com/leo.txt
 Leke白名单：
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS/url.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS@1.1/url.txt
 
 -----------------------分割线--------------------------
 小说(小说字数过长，LEKE会乱码，所以进行了切割)：
 1.回到过去变成猫:
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/回到过去变成猫/1.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/回到过去变成猫/2.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/回到过去变成猫/1.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/回到过去变成猫/2.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/回到过去变成猫/3.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/回到过去变成猫/4.txt
 2.网游之天下无双
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/网游之天下无双/1.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/网游之天下无双/2.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/网游之天下无双/3.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/网游之天下无双/4.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/网游之天下无双/5.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/网游之天下无双/6.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/网游之天下无双/7.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/网游之天下无双/8.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/网游之天下无双/9.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/网游之天下无双/10.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/1.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/2.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/3.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/4.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/5.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/6.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/7.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/8.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/9.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/10.txt
 3.雪中悍刀行
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/雪中悍刀行/1.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/雪中悍刀行/2.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/雪中悍刀行/3.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/雪中悍刀行/4.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/雪中悍刀行/5.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/雪中悍刀行/6.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/雪中悍刀行/7.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/雪中悍刀行/8.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/雪中悍刀行/9.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/雪中悍刀行/10.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/1.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/2.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/3.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/4.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/5.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/6.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/7.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/8.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/9.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/10.txt
 
 -----------------------分割线--------------------------
 音乐（正在迁移）
@@ -48,10 +51,10 @@ https://c.runoob.com/front-end/61
         container: document.getElementById('dplayer'),
         autoplay:!0,theme:"#42b983",loop:true,lang:"zh-cn",preload:"auto",volume:Number("0"),
         video: {
-            url: 'https://cdn.jsdelivr.net/gh/mariosaka/Video/Fox.demon.little.match.maker/playlist.m3u8',
+            url: 'https://cdn.jsdelivr.net/gh/mariosaka/Video/Your.Name/playlist.m3u8',
             type: 'hls',
             defaultQuality: 0,
-            pic: 'https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS/favicon.ico',
+            pic: 'https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS@1.1/favicon.ico',
             thumbnails: 'thumbnails.jpg',
         },
     });
