@@ -1,41 +1,50 @@
-﻿
-JS脚本地址：
+﻿JS脚本地址：
 https://koileo.oss-cn-hangzhou.aliyuncs.com/leo.txt
 Leke白名单：
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS@1.1/url.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS@latest/url.txt
 
 -----------------------分割线--------------------------
 小说(小说字数过长，LEKE会乱码，所以进行了切割)：
 1.回到过去变成猫:
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/回到过去变成猫/1.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/回到过去变成猫/2.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/回到过去变成猫/3.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/回到过去变成猫/4.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/回到过去变成猫/1.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/回到过去变成猫/2.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/回到过去变成猫/3.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/回到过去变成猫/4.txt
 2.网游之天下无双
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/1.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/2.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/3.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/4.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/5.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/6.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/7.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/8.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/9.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/网游之天下无双/10.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/网游之天下无双/1.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/网游之天下无双/2.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/网游之天下无双/3.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/网游之天下无双/4.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/网游之天下无双/5.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/网游之天下无双/6.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/网游之天下无双/7.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/网游之天下无双/8.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/网游之天下无双/9.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/网游之天下无双/10.txt
 3.雪中悍刀行
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/1.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/2.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/3.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/4.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/5.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/6.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/7.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/8.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/9.txt
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@1.1/雪中悍刀行/10.txt
-
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/雪中悍刀行/1.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/雪中悍刀行/2.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/雪中悍刀行/3.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/雪中悍刀行/4.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/雪中悍刀行/5.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/雪中悍刀行/6.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/雪中悍刀行/7.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/雪中悍刀行/8.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/雪中悍刀行/9.txt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/雪中悍刀行/10.txt
+4.欧先生那个偏执狂
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/欧先生那个偏执狂.txt
+5.禁止惹火
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book@latest/禁止惹火.txt
 -----------------------分割线--------------------------
-音乐（正在迁移）
+Peaches ：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/1.mp3
+Mood ：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/2.mp3
+朗朗晴天：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/3.mp3
+Stitchs：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/4.mp3
+erything sucks ：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/5.mp3
+篝火旁 ：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/6.mp3
+better now：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/7.mp3
+
 -----------------------分割线--------------------------
 视频：
 https://c.runoob.com/front-end/61
@@ -54,7 +63,7 @@ https://c.runoob.com/front-end/61
             url: 'https://cdn.jsdelivr.net/gh/mariosaka/Video/Your.Name/playlist.m3u8',
             type: 'hls',
             defaultQuality: 0,
-            pic: 'https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS@1.1/favicon.ico',
+            pic: 'https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS@latest/favicon.ico',
             thumbnails: 'thumbnails.jpg',
         },
     });
