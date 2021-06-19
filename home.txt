@@ -51,7 +51,7 @@ https://c.runoob.com/front-end/61
             url: 'https://cdn.jsdelivr.net/gh/mariosaka/Video/Fox.demon.little.match.maker/playlist.m3u8',
             type: 'hls',
             defaultQuality: 0,
-            pic: 'https://cdn.jsdelivr.net/gh/你的视频的初始未播放的画面（封面）.webp',
+            pic: 'https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS/favicon.ico',
             thumbnails: 'thumbnails.jpg',
         },
     });
