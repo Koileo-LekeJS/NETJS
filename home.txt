@@ -35,6 +35,8 @@ https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Book/雪中悍刀行/10.txt
 音乐（正在迁移）
 -----------------------分割线--------------------------
 视频：
+https://c.runoob.com/front-end/61
+
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/DIYgod/DPlayer/dist/DPlayer.min.js"></script>
