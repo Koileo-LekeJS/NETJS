@@ -48,52 +48,19 @@ erything sucks ：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/5.mp3
 better now：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/7.mp3
 
 -----------------------分割线--------------------------
-视频：
-https://c.runoob.com/front-end/61
-代码：
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/DIYgod/DPlayer/dist/DPlayer.min.js"></script>
-
-<div id="dplayer" class="dplayer-video dplayer dplayer-no-danmaku dplayer-paused"></div>
-  <script>
-    $(function(){ 
-      const dp = new DPlayer({
-        container: document.getElementById('dplayer'),
-        autoplay:!0,theme:"#42b983",loop:true,lang:"zh-cn",preload:"auto",volume:Number("0"),
-        video: {
-            url: 'https://cdn.jsdelivr.net/gh/mariosaka/Video/Your.Name/playlist.m3u8',
-            type: 'hls',
-            defaultQuality: 0,
-            pic: 'https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS@latest/favicon.ico',
-            thumbnails: 'thumbnails.jpg',
-        },
-    });
-  })
-  </script>     
-  <span id="btnV" style="color:#676767;font-size:16px;cursor:pointer;">↑ 画面不动？没声音？点这里！</span> 
-  <script>
-    $("#btnV").click(function(){
-       if($("#btnV").html()=="↑ 画面不动？没声音？点这里！"||$("#btnV").html()=="↑ 没声音？点这里！"){
-        dp.play();
-        dp.volume(0.4);
-        $("#btnV").html("↑ 太吵了，关掉！");
-       }else{
-        dp.volume(0);
-        $("#btnV").html("↑ 没声音？点这里！");
-       }
-    }) 
-  </script> 
-
-
-m3u8地址：
 秒速5厘米1080P：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/5.Centimeters.Per.Second/playlist.m3u8
 狐妖小红娘-竹叶篇：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/Fox.demon.little.match.maker/playlist.m3u8
 你的名字4K：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/Your.Name/playlist.m3u8
 言叶之庭1080P：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/The.Garden.of.Words/playlist.m3u8
 -----------------------分割线--------------------------
+游戏:
+https://c.runoob.com/front-end/61
+-----------------------分割线--------------------------
 JK图片：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Photo@latest/jk/jk1-1.jpg
 jk(1-5)(1-20).jpg
 
 马上就会添加自定义上传功能
+
+
+
 
