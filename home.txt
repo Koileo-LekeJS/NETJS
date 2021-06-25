@@ -1,4 +1,6 @@
-﻿JS脚本地址：
+Leo的小站:
+https://www.koileo.com
+JS脚本地址：
 https://koileo.oss-cn-hangzhou.aliyuncs.com/leo.txt
 Leke白名单：
 https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS@latest/url.txt
