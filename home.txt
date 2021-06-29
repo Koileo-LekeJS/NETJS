@@ -52,6 +52,7 @@ better now：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/7.mp3
 狐妖小红娘-竹叶篇：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/Fox.demon.little.match.maker/playlist.m3u8
 你的名字4K：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/Your.Name/playlist.m3u8
 言叶之庭1080P：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/The.Garden.of.Words/playlist.m3u8
+夏目友人帐 唤石者与怪异的访客1080P :https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/Natsume.Yuujinchou.Ishi.Okoshi/playlist.m3u8
 -----------------------分割线--------------------------
 游戏:
 https://c.runoob.com/front-end/61
