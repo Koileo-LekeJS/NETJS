@@ -56,6 +56,8 @@ better now：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/7.mp3
 -----------------------分割线--------------------------
 游戏:
 https://c.runoob.com/front-end/61
+2048代码：
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS@latest/2048
 -----------------------分割线--------------------------
 JK图片：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Photo@latest/jk/jk1-1.jpg
 jk(1-5)(1-20).jpg
