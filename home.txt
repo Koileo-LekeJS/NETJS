@@ -46,21 +46,25 @@ Stitchs：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/4.mp3
 erything sucks ：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/5.mp3
 篝火旁 ：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/6.mp3
 better now：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/7.mp3
+夜曲（周杰伦）：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/8.mp3
 晴天（周杰伦）：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/9.mp3
+
 -----------------------分割线--------------------------
 秒速5厘米1080P：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/5.Centimeters.Per.Second/playlist.m3u8
 狐妖小红娘-竹叶篇：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/Fox.demon.little.match.maker/playlist.m3u8
 你的名字4K：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/Your.Name/playlist.m3u8
 言叶之庭1080P：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/The.Garden.of.Words/playlist.m3u8
 夏目友人帐 唤石者与怪异的访客1080P :https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/Natsume.Yuujinchou.Ishi.Okoshi/playlist.m3u8
+唤石者与怪异的访客字幕:https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/Natsume.Yuujinchou.Ishi.Okoshi/1.srt
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/Natsume.Yuujinchou.Ishi.Okoshi/2.srt
 -----------------------分割线--------------------------
 游戏:
 https://c.runoob.com/front-end/61
 2048代码：
-https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS@latest/2048
+https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS@latest/2048.txt
 -----------------------分割线--------------------------
 JK图片：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Photo@latest/jk/jk1-1.jpg
-jk(1-5)(1-20).jpg
+jk(1-5)-(1-20).jpg
 
 马上就会添加自定义上传功能
 
