@@ -57,24 +57,14 @@ better now：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Music@latest/7.mp3
 夏目友人帐 唤石者与怪异的访客1080P :https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/Natsume.Yuujinchou.Ishi.Okoshi/playlist.m3u8
 唤石者与怪异的访客字幕:https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/Natsume.Yuujinchou.Ishi.Okoshi/1.srt
 https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Video/Natsume.Yuujinchou.Ishi.Okoshi/2.srt
+天气之子4K：https://cdn.jsdelivr.net/gh/imyilin/video123/playlist.m3u8
 -----------------------分割线--------------------------
 游戏:
 https://c.runoob.com/front-end/61
 2048代码：
 https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS@latest/2048.txt
 -----------------------分割线--------------------------
-聊天：
-https://c.runoob.com/front-end/61
-写入代码：
-<!DOCTYPE html>
-<html>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <body>
-    <script src="https://cdn.jsdelivr.net/gh/Koileo-LekeJS/NETJS@1.6.2/chat.js"></script>
-  </body>
-</html>
 
------------------------分割线--------------------------
 JK图片：https://cdn.jsdelivr.net/gh/Koileo-LekeJS/Photo@latest/jk/jk1-1.jpg
 jk(1-5)-(1-20).jpg
 
